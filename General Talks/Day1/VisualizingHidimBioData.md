@@ -9,7 +9,9 @@ github: cornhundred
 
 [Clustergrammer Github](https://github.com/MaayanLab/clustergrammer)
 
-[README](https://github.com/MaayanLab/clustergrammer-widget/blob/master/README.md)
+[Clustergrammer Demonstration](https://github.com/MaayanLab/clustergrammer-widget/blob/master/README.md)
+
+[Presentation Notebook](http://nbviewer.jupyter.org/github/MaayanLab/CCLE_Clustergrammer/blob/master/notebooks/Tissue_Specific_Viz.ipynb)
 
 >Biological data and other data collected from complex systems can have tens of thousands of variables that interact nonlinearly. Interactive visualizations enable users to develop an intuition about the global structure of their data and immediately identify patterns. While dimensionality reduction techniques are useful for obtaining a bird’s eye view of data, these techniques often obscure important information. Heatmaps, or clustergrams, are powerful alternative but complementary visualization techniques for directly visualizing all variables from high-dimensional data. While there are many software tools that can generate clustergrams, few are web based, fully interactive, or seamlessly integrated into Jupyter notebooks.
 
