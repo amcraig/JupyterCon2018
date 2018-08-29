@@ -18,7 +18,7 @@ Missing Data can substantially undermine our analyses and inferences
 
 ## The Three Types of Missing Data 
 ### MCAR: Missing Completely At Random
-No systematic reason for why the data was missing e.g. a biologist knocks off pitri dishes off table by accident
+No systematic reason for why the data was missing e.g. a biologist knocks off petri dishes off table by accident
 
 Conditional on data we have not observed
 
