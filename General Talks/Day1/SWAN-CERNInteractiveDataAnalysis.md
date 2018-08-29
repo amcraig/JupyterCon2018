@@ -59,6 +59,7 @@ Scientists and all higher education around the world
 Full integration for Jupyter lab WHICH means all visualizations will move to all JavaScript based
 
 [Repo](https://github.com/swan-cern)
+
 [Science Box](cern.ch/sciencebox)
 
 ## Take aways:
