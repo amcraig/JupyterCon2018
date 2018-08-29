@@ -17,7 +17,7 @@ Are we assuming the end user is a Linux user?
 * Obtain a DOI
 * Don't make assumptions on platforms
 * Bundle dependancies rather than retrieve on demand
-a* Perhaps, make a container with clear instructions on its execution
+* Perhaps, make a container with clear instructions on its execution
 
 Four tenants of reproducability:
  * Organization
