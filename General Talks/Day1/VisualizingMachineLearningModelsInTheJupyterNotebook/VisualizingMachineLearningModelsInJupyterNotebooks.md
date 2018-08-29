@@ -1,5 +1,7 @@
 # Visualizing Machine Learning Models in Jupyter Notebooks
 
+## Talk moved too fast for effective note taking
+
 Chakri Cherukuri: Quantitative Financial Research Group - Bloomberg
 
 [Github for this talk!](https://github.com/ChakriCherukuri/jupytercon_2018)
