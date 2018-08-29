@@ -19,7 +19,7 @@ github: cornhundred
 
 Previous examples are with interactive D3.js plots
 
-##Biological data is difficult to visualize
+## Biological data can be difficult to visualize
 
 Can be very high-dim
 * RNA-seq proteomics
